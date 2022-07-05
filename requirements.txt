@@ -6,6 +6,6 @@ flask-WTF
 Flask-Bootstrap
 SQLAlchemy
 Flask-SQLAlchemy
-# Werkzeug
-# Flask-Script
-# WTForms
+Werkzeug
+Flask-Script
+WTForms
